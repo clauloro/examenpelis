@@ -1,8 +1,6 @@
-# Description: This file contains the utility functions for the streaming app.
-
 import requests
 
-API_KEY = "d062936eba756bd8c896a4a6b1f795a4"
+API_KEY = "7212040052760a189a48613221440e5b"  # Tu API Key
 BASE_URL = "https://api.themoviedb.org/3"
 
 def fetch_movies():
